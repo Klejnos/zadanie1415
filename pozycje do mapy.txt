@@ -1,0 +1,5 @@
+1 czerwony trójkąt (48,14,28,61,66,61)
+2 żółte koło (47,98,71,98)
+3 niebieski prostokąt (12,132,86,168)
+4 brązowy prostokąt (12,182,86,223)
+5 zielone koło (48,259,70,259)
